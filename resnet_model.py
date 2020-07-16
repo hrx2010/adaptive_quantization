@@ -8,6 +8,7 @@ from tensorpack.tfutils.argscope import argscope, get_arg_scope
 
 from tensorpack.tfutils.varreplace import remap_variables
 
+# this is a testing for github
 inf = 100000000
 cnt_wei_layer = 0
 cnt_act_layer = 0
